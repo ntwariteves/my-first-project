@@ -1,2 +1,3 @@
-# my-first-project
-look the code which do this include css and html
+my furst project
+tools:vs code,pc
+author:ntwari
